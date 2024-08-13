@@ -1,0 +1,2 @@
+# newsboat
+My Newsboat Configuration
