@@ -1,0 +1,4 @@
+auto-reload true
+reload-time 15
+reload-threads 20
+include colours/solarized-dark
